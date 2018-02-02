@@ -4,7 +4,7 @@ html, body{
     color: #989898;
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    overflow: auto;
 }
 
 .container{
@@ -90,7 +90,7 @@ h1{
 footer{
     background-color: white;
     padding: 30px 30px 1px 30px;
-    border-radius: 20px; 
+    border-radius: 20px;
     text-align: right;
     color: #FF6A5C;
 }
